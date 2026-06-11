@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom app styles (kept small — use Tailwind utility classes) */
+/* .nav-custom {
+  @apply flex items-center gap-4 px-6 py-4 bg-white shadow-md;
+}
+
+.container-custom {
+  @apply max-w-6xl mx-auto px-4 py-8;
+}
+
+input,
+textarea,
+select {
+  @apply block w-full max-w-md px-4 py-2 border border-gray-200 rounded-md focus:outline-none focus:ring-2 focus:ring-emerald-400;
+}
+
+button {
+  @apply inline-block px-4 py-2 rounded bg-emerald-600 text-white font-semibold hover:bg-emerald-500;
+} */
+
+/* Keep legacy public styles available */
+/* @import url('/style.css'); */
